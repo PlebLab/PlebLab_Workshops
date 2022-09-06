@@ -16,4 +16,4 @@ If you are looking to attend a workshop please rsvp here: https://www.meetup.com
 
 # 💻 View Previous Workshops:
 
-All previous workshops including videos & reference materials are availble here: https://github.com/PlebLab/PlebLab_Workshops/issues
+All previous workshops including video & reference materials are availble here: https://github.com/PlebLab/PlebLab_Workshops/issues
